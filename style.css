@@ -25,10 +25,16 @@ h3 {
 h5 {
   font-size: 1.2rem;
 }
+.Myspan {
+  padding-left: 2rem;
+  color: white;
+  letter-spacing: 0.4rem;
+}
 
 .Mybutton {
   padding: 0.5em 0.5em;
-  font-size: 1.5em;
-  background-color: rgb(233, 229, 32);
+  font-size: 1.2em;
+  background-color: rgb(137, 218, 232);
   cursor: pointer;
+  font-family: "Verdana", Tahoma, Geneva, sans-serif;
 }
